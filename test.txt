@@ -1,2 +1,7 @@
-Nebojsa Lucic 01/01/2018
+<<<<<<< HEAD
+Nebojsa Lucic 
+01/01/2018
 Sasa Gasparovic
+=======
+
+>>>>>>> nova_grana
